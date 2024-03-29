@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Recipe Book Lib
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Recipe Book Lib was made to create an easier way to add recipe books and their contents to the game.
